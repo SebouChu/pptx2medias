@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'pptx2medias'
+Pptx2Medias::extract ARGV[0]
