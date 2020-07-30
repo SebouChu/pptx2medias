@@ -1,5 +1,7 @@
 # PPTX2Medias
 
+[![Gem Version](https://badge.fury.io/rb/pptx2medias.svg)](https://badge.fury.io/rb/pptx2medias)
+
 Ruby gem which extracts media files (images, videos, sounds) from a PPTX file.
 
 ## Installation
