@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name          = 'pptx2medias'
-  s.version       = '0.0.1'
+  s.version       = Pptx2Medias::VERSION
   s.platform      = Gem::Platform::RUBY
   s.summary       = 'Get medias from your PowerPoint presentation!'
   s.description   = "Extracts media files (images, videos, sounds) from a PPTX file."
