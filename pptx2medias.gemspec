@@ -1,3 +1,5 @@
+$:.push File.expand_path('../lib', __FILE__)
+
 require 'pptx2medias'
 
 Gem::Specification.new do |s|
