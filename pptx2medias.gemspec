@@ -1,3 +1,5 @@
+require 'pptx2medias'
+
 Gem::Specification.new do |s|
   s.name          = 'pptx2medias'
   s.version       = Pptx2Medias::VERSION
