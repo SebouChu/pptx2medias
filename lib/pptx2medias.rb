@@ -1,7 +1,8 @@
 module Pptx2Medias
-  VERSION = '0.0.1'
+  VERSION = '0.0.2'
 
-  def self.extract(file_path)
+  def self.extract(input)
+    file_path = input.strip
     file_type = `file -b "#{file_path}"`
     file_ext = File.extname(file_path)
 
